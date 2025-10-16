@@ -1,0 +1,136 @@
+[
+  {
+    "autorite": "Division des affaires étrangères à Berne",
+    "delai_moyen_jours": 33.8,
+    "mediane_jours": 30,
+    "delai_min": 1,
+    "delai_max": 172,
+    "ecart_type": 37.03388680559772,
+    "nb_cas": 19,
+    "nationalites": [
+
+    ],
+    "tres_rapides": [
+      {
+        "d": 1,
+        "p": "Müller Elisabeth",
+        "date": "1942-05-04"
+      },
+      {
+        "d": 3,
+        "p": "Müller Elisabeth",
+        "date": "1942-04-24"
+      }
+    ],
+    "tres_lents": [
+      {
+        "d": 172,
+        "p": "Müller Elisabeth",
+        "date": "1942-10-16"
+      }
+    ]
+  },
+  {
+    "autorite": "Ministère des affaires étrangères allemand",
+    "delai_moyen_jours": 49.0,
+    "mediane_jours": 49.0,
+    "delai_min": 8,
+    "delai_max": 90,
+    "ecart_type": 57.982756057296896,
+    "nb_cas": 2,
+    "nationalites": [
+
+    ],
+    "tres_rapides": [
+
+    ],
+    "tres_lents": [
+      {
+        "d": 90,
+        "p": "Müller Elisabeth",
+        "date": "1943-06-16"
+      }
+    ]
+  },
+  {
+    "autorite": "Consulat de Suisse à Düsseldorf",
+    "delai_moyen_jours": 79.7,
+    "mediane_jours": 37,
+    "delai_min": 14,
+    "delai_max": 188,
+    "ecart_type": 94.52160246913577,
+    "nb_cas": 3,
+    "nationalites": [
+
+    ],
+    "tres_rapides": [
+
+    ],
+    "tres_lents": [
+      {
+        "d": 188,
+        "p": "Müller Elisabeth",
+        "date": "1942-10-06"
+      }
+    ]
+  },
+  {
+    "autorite": "Légation de Suisse à Berlin",
+    "delai_moyen_jours": 165.9,
+    "mediane_jours": 93.0,
+    "delai_min": 5,
+    "delai_max": 420,
+    "ecart_type": 185.8804819539388,
+    "nb_cas": 8,
+    "nationalites": [
+
+    ],
+    "tres_rapides": [
+
+    ],
+    "tres_lents": [
+      {
+        "d": 410,
+        "p": "Müller Elisabeth",
+        "date": "1942-04-25"
+      },
+      {
+        "d": 420,
+        "p": "Müller Elisabeth",
+        "date": "1942-04-25"
+      },
+      {
+        "d": 292,
+        "p": "Müller Elisabeth",
+        "date": "1942-11-30"
+      },
+      {
+        "d": 179,
+        "p": "Müller Elisabeth",
+        "date": "1942-11-30"
+      }
+    ]
+  },
+  {
+    "autorite": "Consulat de Suisse à Paris",
+    "delai_moyen_jours": 645.0,
+    "mediane_jours": 645,
+    "delai_min": 645,
+    "delai_max": 645,
+    "ecart_type": 0.0,
+    "nb_cas": 1,
+    "nationalites": [
+
+    ],
+    "tres_rapides": [
+
+    ],
+    "tres_lents": [
+      {
+        "d": 645,
+        "p": "Müller Elisabeth",
+        "date": "1941-08-21"
+      }
+    ]
+  }
+]

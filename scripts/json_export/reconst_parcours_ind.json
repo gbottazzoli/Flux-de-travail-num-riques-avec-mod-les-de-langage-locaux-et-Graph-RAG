@@ -1,0 +1,2474 @@
+[
+  {
+    "e": {
+      "identity": 75,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1941-03-29",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"autorités allemandes d'occupation\"",
+        "description": "Arrestation d'Elisabeth Müller par les Allemands à Paris pour soupçon d'espionnage suite à un voyage en Suisse.",
+        "date_end": "1941-03-29",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/arrest",
+        "date_source": "#date_source/explicit",
+        "date_start": "1941-03-29",
+        "event_id": "/id/event/33aac6296e03ed6f1ecca2b582fe0cd06c9f6e7d",
+        "agent_role": "#arresting",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:75"
+    }
+  },
+  {
+    "e": {
+      "identity": 77,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1941-03-29/..",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"autorités pénitentiaires allemandes à Paris\"",
+        "description": "Détention à la prison militaire de Cherche-Midi après l'arrestation.",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/imprisonment",
+        "date_source": "#date_source/inferred",
+        "date_start": "1941-03-29",
+        "event_id": "/id/event/b5f98f4a912691d5e1e5cc199ad83cdb1e116445",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "open_end",
+        "place_id": "/id/org/9900ec4b-eefa-4d2a-9184-8c024da08bd5",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:77"
+    }
+  },
+  {
+    "e": {
+      "identity": 99,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1941-03-29/1942-03-29",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"autorités judiciaires allemandes\"",
+        "description": "Inculpation pour espionnage et accusation d'avoir travaillé pour le 2ème Bureau français.",
+        "date_end": "1942-03-29",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/charge/espionage",
+        "date_source": "#date_source/inferred",
+        "date_start": "1941-03-29",
+        "event_id": "/id/event/b3cc9126c52e04694c2e6d7ff55da100757baac1",
+        "agent_role": "#charging",
+        "unknown_agent": true,
+        "date_precision": "interval",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:99"
+    }
+  },
+  {
+    "e": {
+      "identity": 113,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1941-03-29",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"autorités allemandes d'occupation\"",
+        "description": "Arrestation d'Elisabeth Müller par les Allemands à Paris pour soupçon d'espionnage suite à un voyage en Suisse pour rendre visite à ses enfants.",
+        "date_end": "1941-03-29",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/arrest",
+        "date_source": "#date_source/explicit",
+        "date_start": "1941-03-29",
+        "event_id": "/id/event/f1df7c3b0b11057e988ceaef4b64021eeeb251e0",
+        "agent_role": "#arresting",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:113"
+    }
+  },
+  {
+    "e": {
+      "identity": 115,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1941-03-29/..",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"autorités allemandes d'occupation\"",
+        "description": "Détention d'Elisabeth Müller à la prison du Cherche-Midi à Paris suite à son arrestation.",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/imprisonment",
+        "date_source": "#date_source/inferred",
+        "date_start": "1941-03-29",
+        "event_id": "/id/event/130c186c644002ef0902cb36971f1efe0835545e",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "open_end",
+        "place_id": "/id/org/9900ec4b-eefa-4d2a-9184-8c024da08bd5",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:115"
+    }
+  },
+  {
+    "e": {
+      "identity": 129,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1941-03-29",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorités allemandes d'occupation\"",
+        "description": "\"Arrestation d'Elisabeth Müller par les autorités allemandes à Paris.\"",
+        "date_end": "1941-03-29",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/arrest",
+        "date_source": "#date_source/explicit",
+        "date_start": "1941-03-29",
+        "event_id": "/id/event/9098d31700488ea88867b43d52145f091a47fb40",
+        "agent_role": "#arresting",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:129"
+    }
+  },
+  {
+    "e": {
+      "identity": 131,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1941-03-29/..",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorités pénitentiaires allemandes\"",
+        "description": "\"Détention d'Elisabeth Müller à la prison militaire du Cherche-Midi à Paris, débutant le 29 mars 1941.\"",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/imprisonment",
+        "date_source": "#date_source/explicit",
+        "date_start": "1941-03-29",
+        "event_id": "/id/event/d41409469ef1b41c42c93ff6dc6c60ff290e369c",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "open_end",
+        "place_id": "/id/org/9900ec4b-eefa-4d2a-9184-8c024da08bd5",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:131"
+    }
+  },
+  {
+    "e": {
+      "identity": 133,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1941-03-29/1942-04-27",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorités pénitentiaires allemandes\"",
+        "description": "\"Transfert d'Elisabeth Müller de la prison du Cherche-Midi vers la prison de La Santé à Paris.\"",
+        "date_end": "1942-04-27",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/transfer",
+        "date_source": "#date_source/inferred",
+        "date_start": "1941-03-29",
+        "event_id": "/id/event/ee12329347b74af01a5a4a4d41c1e43e6473d79f",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "interval",
+        "place_id": "/id/org/9900ec4b-eefa-4d2a-9184-8c024da08bd5",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:133"
+    }
+  },
+  {
+    "e": {
+      "identity": 151,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1941-03-29/1942-03-30",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorités judiciaires allemandes\"",
+        "description": "\"Inculpation initiale d'Elisabeth Müller pour transport illégal de lettres et transactions alimentaires.\"",
+        "date_end": "1942-03-30",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/charge/currency_smuggling",
+        "date_source": "#date_source/inferred",
+        "date_start": "1941-03-29",
+        "event_id": "/id/event/ea057ad88802ef5880e986709169614e8b864e9b",
+        "agent_role": "#charging",
+        "unknown_agent": true,
+        "date_precision": "interval",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:151"
+    }
+  },
+  {
+    "e": {
+      "identity": 163,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1941-03-29",
+        "agent_id": "/id/org/dc7795a7-ca98-439f-80e6-3749061c6d9f",
+        "description": "Arrestation d'Elisabeth Müller par les autorités allemandes à Paris pour espionnage.",
+        "date_end": "1941-03-29",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/arrest",
+        "date_source": "#date_source/explicit",
+        "date_start": "1941-03-29",
+        "event_id": "/id/event/37a5ea976d46c4dbf045cbd3de6e193010baa976",
+        "agent_role": "#arresting",
+        "unknown_agent": false,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:163"
+    }
+  },
+  {
+    "e": {
+      "identity": 165,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1941-03-29/..",
+        "agent_id": "/id/org/dc7795a7-ca98-439f-80e6-3749061c6d9f",
+        "description": "Incarcération d'Elisabeth Müller à Paris depuis le 29 mars 1941, toujours en cours au 21 août 1941.",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/imprisonment",
+        "date_source": "#date_source/explicit",
+        "date_start": "1941-03-29",
+        "event_id": "/id/event/d7b6ff95193f9c704fc491f4ecd6b6c78ddcd12e",
+        "agent_role": "#detaining",
+        "unknown_agent": false,
+        "date_precision": "open_end",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:165"
+    }
+  },
+  {
+    "e": {
+      "identity": 71,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1941-09-16",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "autorités allemandes à Paris",
+        "description": "Müller Elisabeth a été inculpée de contrebande de devises par les autorités allemandes à Paris, et non d'espionnage comme précédemment supposé.",
+        "date_end": "1941-09-16",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/charge/currency_smuggling",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/0b0707411141fdf57afdf26e388b371830978e43",
+        "agent_role": "#charging",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:71"
+    }
+  },
+  {
+    "e": {
+      "identity": 73,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1941-09-16",
+        "agent_id": "/id/org/9900ec4b-eefa-4d2a-9184-8c024da08bd5",
+        "description": "Müller Elisabeth est détenue à la prison militaire du Cherche-Midi à Paris au moment du rapport consulaire.",
+        "date_end": "1941-09-16",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/imprisonment",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/38a3b6201c38afcd81c0ac1604e5085e1e06b83f",
+        "agent_role": "#detaining",
+        "unknown_agent": false,
+        "date_precision": "open_start",
+        "place_id": "/id/org/9900ec4b-eefa-4d2a-9184-8c024da08bd5",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:73"
+    }
+  },
+  {
+    "e": {
+      "identity": 167,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1941-12-29",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"autorités allemandes\"",
+        "description": "Arrestation d'Elisabeth Müller à Paris par les autorités allemandes pour soupçon d'espionnage.",
+        "date_end": "1941-12-29",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/arrest",
+        "date_source": "#date_source/explicit",
+        "date_start": "1941-12-29",
+        "event_id": "/id/event/f10e11818d80af8a826ce958f9ac1203f42de165",
+        "agent_role": "#arresting",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:167"
+    }
+  },
+  {
+    "e": {
+      "identity": 169,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1941-12-29/..",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"administration pénitentiaire allemande\"",
+        "description": "Détention d'Elisabeth Müller à la prison du Cherche-Midi à Paris suite à son arrestation.",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/imprisonment",
+        "date_source": "#date_source/explicit",
+        "date_start": "1941-12-29",
+        "event_id": "/id/event/cc72298d73ed8a4dfb9efecee3a7fe996276da63",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "open_end",
+        "place_id": "/id/org/9900ec4b-eefa-4d2a-9184-8c024da08bd5",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:169"
+    }
+  },
+  {
+    "e": {
+      "identity": 81,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-03-29",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"tribunal militaire allemand à Paris\"",
+        "description": "Condamnation à mort pour espionnage par un tribunal militaire allemand.",
+        "date_end": "1942-03-29",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/sentence/death",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-03-29",
+        "event_id": "/id/event/aaec7812a533dc3dcd9c6279ec0e4515b7235d90",
+        "agent_role": "#sentencing",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:81"
+    }
+  },
+  {
+    "e": {
+      "identity": 19,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1942-03-30",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "autorité occupante allemande à Paris",
+        "description": "Müller Elisabeth inculpée d'espionnage avant son jugement du 30 mars 1942.",
+        "date_end": "1942-03-30",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/charge/espionage",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/93a99d9e82b7ad7a5a34a5b1077c8c00c11e3ea5",
+        "agent_role": "#arresting",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:19"
+    }
+  },
+  {
+    "e": {
+      "identity": 21,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-03-30",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "tribunal de l'autorité occupante allemande",
+        "description": "Condamnée à mort par jugement du 30 mars 1942 pour espionnage.",
+        "date_end": "1942-03-30",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/sentence/death",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-03-30",
+        "event_id": "/id/event/6eba1d814de9115960f02591076864c39c057abe",
+        "agent_role": "#sentencing",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:21"
+    }
+  },
+  {
+    "e": {
+      "identity": 25,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-03-30",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "tribunal allemand pour espionnage",
+        "description": "Condamnée à mort le 30 mars 1942 pour espionnage selon l'Auswärtiges Amt.",
+        "date_end": "1942-03-30",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/sentence/death",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-03-30",
+        "event_id": "/id/event/635786a99688a3d0d511b88e9fde1ef7f6722993",
+        "agent_role": "#sentencing",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:25"
+    }
+  },
+  {
+    "e": {
+      "identity": 65,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-03-30",
+        "agent_id": "/id/org/5c1fca8a-32c9-4604-bba5-1e7a7e16d13e",
+        "description": "Le 30 mars 1942, Müller Elisabeth a été condamnée à mort par un tribunal militaire à Paris sous l'inculpation d'espionnage. Elle avait été régulièrement assistée d'un avocat.",
+        "date_end": "1942-03-30",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/sentence/death",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-03-30",
+        "event_id": "/id/event/30436c9ce8ce64a2a1b03212474d1acd46a79d79",
+        "agent_role": "#sentencing",
+        "unknown_agent": false,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:65"
+    }
+  },
+  {
+    "e": {
+      "identity": 67,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-03-30",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Deutsches Militärgericht (tribunal militaire allemand en France occupée)\"",
+        "description": "Condamnation à mort d'Elisabeth Müller par un tribunal militaire allemand pour espionnage, prononcée le 30 mars 1942 en France occupée.",
+        "date_end": "1942-03-30",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/sentence/death",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-03-30",
+        "event_id": "/id/event/f7d816cbaa22bd4ee29cf7d552ba207f4f53a64a",
+        "agent_role": "#sentencing",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/85bbfc73-e510-4d76-bdcb-9f9b52f11492",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:67"
+    }
+  },
+  {
+    "e": {
+      "identity": 79,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1942-03-30",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"autorités pénitentiaires allemandes à Paris\"",
+        "description": "Transfert et détention à la prison de la Santé à Paris pendant l'instruction judiciaire.",
+        "date_end": "1942-03-30",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/imprisonment",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/7159147a58a76fef6036ed1d00735ae2a2932eb6",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/org/115c7388-80bd-414e-b93a-f29df63c1885",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:79"
+    }
+  },
+  {
+    "e": {
+      "identity": 117,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1942-03-30",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"autorités allemandes d'occupation\"",
+        "description": "Détention d'Elisabeth Müller à la prison de La Santé à Paris avant sa condamnation.",
+        "date_end": "1942-03-30",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/imprisonment",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/a6e4dc206f1837d53bb86149dfa51e3accb3ab2b",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/org/115c7388-80bd-414e-b93a-f29df63c1885",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:117"
+    }
+  },
+  {
+    "e": {
+      "identity": 119,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-03-30",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"tribunal militaire allemand\"",
+        "description": "Condamnation à mort d'Elisabeth Müller pour espionnage par un tribunal militaire allemand.",
+        "date_end": "1942-03-30",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/sentence/death",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-03-30",
+        "event_id": "/id/event/9f1be03de935b9c3c3698c2f071a364d107b201e",
+        "agent_role": "#sentencing",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:119"
+    }
+  },
+  {
+    "e": {
+      "identity": 153,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1942-03-30",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Tribunal militaire allemand\"",
+        "description": "\"Inculpation d'Elisabeth Müller pour espionnage, requalification des accusations initiales.\"",
+        "date_end": "1942-03-30",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/charge/espionage",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/42b57db77f7aefe18725e563d0e8d82c5e28d6b0",
+        "agent_role": "#charging",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:153"
+    }
+  },
+  {
+    "e": {
+      "identity": 155,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-03-30",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Tribunal militaire allemand\"",
+        "description": "\"Condamnation à mort d'Elisabeth Müller pour espionnage par tribunal militaire allemand.\"",
+        "date_end": "1942-03-30",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/sentence/death",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-03-30",
+        "event_id": "/id/event/9911f6c7ff9aae378c8f5793683564a84605b97c",
+        "agent_role": "#sentencing",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:155"
+    }
+  },
+  {
+    "e": {
+      "identity": 161,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-03-30",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Tribunal militaire allemand\"",
+        "description": "Condamnation à mort d'Elisabeth Müller pour espionnage par un tribunal militaire allemand. Un recours en grâce a été immédiatement formulé d'entente avec son avocat.",
+        "date_end": "1942-03-30",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/sentence/death",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-03-30",
+        "event_id": "/id/event/73bf3107f276d311ca7581ef3fae24c718db5699",
+        "agent_role": "#sentencing",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:161"
+    }
+  },
+  {
+    "e": {
+      "identity": 183,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-03-30",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"tribunal militaire allemand\"",
+        "description": "Condamnation à mort d'Elisabeth Müller par un tribunal militaire allemand pour espionnage.",
+        "date_end": "1942-03-30",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/sentence/death",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-03-30",
+        "event_id": "/id/event/585c3f59046d39926cdb3c09f926af45efebb279",
+        "agent_role": "#sentencing",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:183"
+    }
+  },
+  {
+    "e": {
+      "identity": 209,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-03-30",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Tribunal militaire allemand\"",
+        "description": "Condamnation à mort d'Elisabeth Müller pour espionnage par un tribunal allemand.",
+        "date_end": "1942-03-30",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/sentence/death",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-03-30",
+        "event_id": "/id/event/a2f68236717474c2ff951d63bb487ac9af53999c",
+        "agent_role": "#sentencing",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:209"
+    }
+  },
+  {
+    "e": {
+      "identity": 211,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-03-30/..",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorité allemande compétente\"",
+        "description": "Suspension provisoire de l'exécution de la peine de mort d'Elisabeth Müller.",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/clemency/commutation",
+        "date_source": "#date_source/inferred",
+        "date_start": "1942-03-30",
+        "event_id": "/id/event/5144584417921ef62e10a895fc4b284500ff5653",
+        "agent_role": "#clemency",
+        "unknown_agent": true,
+        "date_precision": "open_end",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:211"
+    }
+  },
+  {
+    "e": {
+      "identity": 27,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1942-04-17",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "autorité occupante allemande",
+        "description": "Détention antérieure à la Prison de la Santé à Paris avant son transfert en Allemagne.",
+        "date_end": "1942-04-17",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/imprisonment",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/00a85f55bea8c29f2572737b9a19b07c08eac08d",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/org/115c7388-80bd-414e-b93a-f29df63c1885",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:27"
+    }
+  },
+  {
+    "e": {
+      "identity": 29,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-04-17/1942-10-17",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "autorité allemande",
+        "description": "Transfert de France vers l'Allemagne après le 17 avril 1942.",
+        "date_end": "1942-10-17",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/transfer",
+        "date_source": "#date_source/inferred",
+        "date_start": "1942-04-17",
+        "event_id": "/id/event/a3af2a260777290291cb701c1390c49d09091542",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "interval",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:29"
+    }
+  },
+  {
+    "e": {
+      "identity": 59,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1942-04-22",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "Autorités allemandes à Paris",
+        "description": "Arrestation de Müller Elisabeth à Paris par les autorités allemandes après découverte de son nom sur une fiche du 2ème Bureau français retrouvée dans une péniche renflouée de la Seine.",
+        "date_end": "1942-04-22",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/arrest",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/db42250e361ca388f2173fee45ef88db2a2921cc",
+        "agent_role": "#arresting",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:59"
+    }
+  },
+  {
+    "e": {
+      "identity": 61,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-04-22/..",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "Autorité allemande compétente pour grâce",
+        "description": "Commutation anticipée de la peine de mort en peine de réclusion pour Müller Elisabeth, jugée vraisemblable par l'interlocuteur consulaire.",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/clemency/commutation",
+        "date_source": "#date_source/inferred",
+        "date_start": "1942-04-22",
+        "event_id": "/id/event/72537528ed167dfb0540c28fa66f14720a232faf",
+        "agent_role": "#clemency",
+        "unknown_agent": true,
+        "date_precision": "open_end",
+        "place_id": "UNKNOWN_AUTHORITY",
+        "uncertainty_flag": true
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:61"
+    }
+  },
+  {
+    "e": {
+      "identity": 23,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1942-04-24",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "autorité occupante allemande",
+        "description": "Longue détention à Paris avant et après le jugement du 30 mars 1942.",
+        "date_end": "1942-04-24",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/imprisonment",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/8f513e2ac2e75436054b4790b305d3bcb2aaf362",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:23"
+    }
+  },
+  {
+    "e": {
+      "identity": 63,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-04-27",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "autorité allemande",
+        "description": "Transfert d'Elisabeth Müller de Paris vers l'Allemagne le lundi 27 avril 1942.",
+        "date_end": "1942-04-27",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/transfer",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-04-27",
+        "event_id": "/id/event/0939ec52b26c74fe68a95774af8b7aaadd8fc5f6",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:63"
+    }
+  },
+  {
+    "e": {
+      "identity": 69,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-04-27",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorité allemande organisant le transfert\"",
+        "description": "Transfert prévu d'Elisabeth Müller de la France occupée vers l'Allemagne le 27 avril 1942.",
+        "date_end": "1942-04-27",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/transfer",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-04-27",
+        "event_id": "/id/event/b77e059d44456b8b08d873fb188b5d1db5ae63ce",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/85bbfc73-e510-4d76-bdcb-9f9b52f11492",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:69"
+    }
+  },
+  {
+    "e": {
+      "identity": 83,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-04-27",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"autorités allemandes\"",
+        "description": "Transport de Paris vers l'Allemagne un mois après la condamnation à mort.",
+        "date_end": "1942-04-27",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/transfer",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-04-27",
+        "event_id": "/id/event/5fd7b64a94041fcdf527c97901294bdb6dbbd172",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:83"
+    }
+  },
+  {
+    "e": {
+      "identity": 85,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-04-27/1943-04-30",
+        "agent_id": "/id/org/81818f56-bda1-41c7-8367-b13058bc4d80",
+        "description": "Incarcération au pénitencier pour femmes d'Anrath comme \"détenue de la Wehrmacht\" après le transfert d'Allemagne.",
+        "date_end": "1943-04-30",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-04-27",
+        "event_id": "/id/event/aa41d1a30127026a4c24fd29e111a5802d43f643",
+        "agent_role": "#detaining",
+        "unknown_agent": false,
+        "date_precision": "interval",
+        "place_id": "/id/org/81818f56-bda1-41c7-8367-b13058bc4d80",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:85"
+    }
+  },
+  {
+    "e": {
+      "identity": 121,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-04-27",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"autorités allemandes\"",
+        "description": "Transfert d'Elisabeth Müller de Paris vers l'Allemagne suite à sa condamnation à mort.",
+        "date_end": "1942-04-27",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/transfer",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-04-27",
+        "event_id": "/id/event/66f6ab42a43c5c2273322f67ea2049ae46429839",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:121"
+    }
+  },
+  {
+    "e": {
+      "identity": 123,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-04-27/1943-04-30",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Wehrmacht allemande\"",
+        "description": "Incarcération d'Elisabeth Müller à la prison pour femmes d'Anrath près de Krefeld en tant que \"détenue de la Wehrmacht\".",
+        "date_end": "1943-04-30",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/imprisonment",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-04-27",
+        "event_id": "/id/event/5f58be2468108158b1b281dd8801acc3e05bfdb2",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "interval",
+        "place_id": "/id/org/81818f56-bda1-41c7-8367-b13058bc4d80",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:123"
+    }
+  },
+  {
+    "e": {
+      "identity": 135,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1942-04-27",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorités pénitentiaires allemandes\"",
+        "description": "\"Détention d'Elisabeth Müller à la prison de La Santé à Paris jusqu'à sa déportation vers l'Allemagne le 27 avril 1942.\"",
+        "date_end": "1942-04-27",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/imprisonment",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/32ac5273ba2190590c3e92a836d04c79b6672bbe",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/org/115c7388-80bd-414e-b93a-f29df63c1885",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:135"
+    }
+  },
+  {
+    "e": {
+      "identity": 137,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-04-27",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorités allemandes\"",
+        "description": "\"Déportation d'Elisabeth Müller de Paris vers l'Allemagne.\"",
+        "date_end": "1942-04-27",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/deportation",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-04-27",
+        "event_id": "/id/event/5d7c12bd09ca59164c262219f5111a5801f2673f",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:137"
+    }
+  },
+  {
+    "e": {
+      "identity": 171,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1942-04-27",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"autorités pénitentiaires allemandes\"",
+        "description": "Transfert d'Elisabeth Müller de la prison du Cherche-Midi vers la prison de La Santé à Paris.",
+        "date_end": "1942-04-27",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/transfer",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/5d6bfe1df26004d183fb27012bc7f89930205bc2",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/org/9900ec4b-eefa-4d2a-9184-8c024da08bd5",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:171"
+    }
+  },
+  {
+    "e": {
+      "identity": 173,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-04-27",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"autorités allemandes\"",
+        "description": "Déportation d'Elisabeth Müller de France vers l'Allemagne.",
+        "date_end": "1942-04-27",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/deportation",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-04-27",
+        "event_id": "/id/event/93614deedc2527838477dbbf8d7c316e6141b338",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/0765cedd-5084-4764-80c6-0a1273872918",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:173"
+    }
+  },
+  {
+    "e": {
+      "identity": 57,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1942-05-04",
+        "agent_id": "/id/org/5c1fca8a-32c9-4604-bba5-1e7a7e16d13e",
+        "description": "Müller Elisabeth récemment condamnée à mort par un tribunal militaire en France. Information transmise par le Consulat de Paris à la Légation de Berlin, puis communiquée à Berne.",
+        "date_end": "1942-05-04",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/sentence/death",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/36d6da607030cdc34a62517c12b3fb62cc5fca91",
+        "agent_role": "#sentencing",
+        "unknown_agent": false,
+        "date_precision": "open_start",
+        "place_precision": "France",
+        "place_id": "UNKNOWN_AUTHORITY",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:57"
+    }
+  },
+  {
+    "e": {
+      "identity": 39,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-06-17",
+        "agent_id": "/id/org/81818f56-bda1-41c7-8367-b13058bc4d80",
+        "description": "Détention d'Elisabeth Müller au Frauenzuchthaus Anrath constatée lors de visite consulaire le 17 juin 1942.",
+        "date_end": "1942-06-17",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/document_date",
+        "date_start": "1942-06-17",
+        "event_id": "/id/event/1bfa3818be26c9f7636ac3593c19bee243d74cce",
+        "agent_role": "#detaining",
+        "unknown_agent": false,
+        "date_precision": "exact",
+        "place_id": "/id/org/81818f56-bda1-41c7-8367-b13058bc4d80",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:39"
+    }
+  },
+  {
+    "e": {
+      "identity": 37,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1942-06-25",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "Autorités allemandes",
+        "description": "Müller Elisabeth a été transférée en Allemagne entre sa condamnation et la date de ce document.",
+        "date_end": "1942-06-25",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/transfer",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/aa620a701c407833bc62d4b845a000909bc0a906",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "UNKNOWN_AUTHORITY",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:37"
+    }
+  },
+  {
+    "e": {
+      "identity": 139,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-08-05/1943-04-30",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Administration pénitentiaire allemande\"",
+        "description": "\"Détention d'Elisabeth Müller au bagne pour femmes d'Anrath près de Krefeld, du 5 août 1942 au 30 avril 1943.\"",
+        "date_end": "1943-04-30",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-08-05",
+        "event_id": "/id/event/7c33ee1312a6e5ea07fefb469a924fdf5048583a",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "interval",
+        "place_id": "/id/org/81818f56-bda1-41c7-8367-b13058bc4d80",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:139"
+    }
+  },
+  {
+    "e": {
+      "identity": 175,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1942-08-05/..",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"administration pénitentiaire allemande\"",
+        "description": "Détention d'Elisabeth Müller au bagne pour femmes d'Anrath près de Krefeld.",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/imprisonment",
+        "date_source": "#date_source/explicit",
+        "date_start": "1942-08-05",
+        "event_id": "/id/event/1d8d7cf5009a153f10fc28371e85350bc920ec0a",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "open_end",
+        "place_id": "/id/org/81818f56-bda1-41c7-8367-b13058bc4d80",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:175"
+    }
+  },
+  {
+    "e": {
+      "identity": 35,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1942-10-06",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "autorité allemande",
+        "description": "Détention au Frauenzuchthaus d'Anrath bei Krefeld confirmée par Elisabeth Müller elle-même dans sa lettre du 27 septembre 1942.",
+        "date_end": "1942-10-06",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/0d0a718e4b3db707b5b9c97a8d41b67472937809",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/org/81818f56-bda1-41c7-8367-b13058bc4d80",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:35"
+    }
+  },
+  {
+    "e": {
+      "identity": 33,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1942-10-16",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "autorité allemande",
+        "description": "Détention au Frauenzuchthaus d'Anrath bei Krefeld au 16 octobre 1942.",
+        "date_end": "1942-10-16",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/b6c89967620f88dcba16308392a1cc58c7312586",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/org/81818f56-bda1-41c7-8367-b13058bc4d80",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:33"
+    }
+  },
+  {
+    "e": {
+      "identity": 31,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1942-10-17",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "autorité allemande",
+        "description": "Détention actuelle à la Prison pour femmes d'Anrath près Krefeld au 17 octobre 1942.",
+        "date_end": "1942-10-17",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/dc53be40ad40babccddc520765895c0338b38609",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/org/81818f56-bda1-41c7-8367-b13058bc4d80",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:31"
+    }
+  },
+  {
+    "e": {
+      "identity": 227,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-04-12",
+        "agent_id": "/id/org/81818f56-bda1-41c7-8367-b13058bc4d80",
+        "description": "\"Détention d'Elisabeth Müller au Frauenzuchthaus Anrath bei Krefeld, confirmée par mention dans correspondance administrative du 12 avril 1943.\"",
+        "date_end": "1943-04-12",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/f4788bf53dd9ece3c1fe2af26162ead9b0d6755c",
+        "agent_role": "#detaining",
+        "unknown_agent": false,
+        "date_precision": "open_start",
+        "place_id": "/id/org/81818f56-bda1-41c7-8367-b13058bc4d80",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:227"
+    }
+  },
+  {
+    "e": {
+      "identity": 223,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-04-16",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorités pénitentiaires allemandes\"",
+        "description": "\"Transfert d'Elisabeth Müller du Frauenzuchthaus Anrath bei Krefeld vers le Zuchthaus Lübeck-Lauerhof, Marliring 41.\"",
+        "date_end": "1943-04-16",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/transfer",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/a0554f6b58a105d02a0a3278c8ea92e62df93095",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/org/81818f56-bda1-41c7-8367-b13058bc4d80",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:223"
+    }
+  },
+  {
+    "e": {
+      "identity": 225,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-04-16",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorités pénitentiaires allemandes\"",
+        "description": "Transfert d'Elisabeth Müller du Frauenzuchthaus Anrath près Krefeld au Zuchthaus Lübeck-Lauerhof, Marliring 41.",
+        "date_end": "1943-04-16",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/transfer",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/d77a051a81624ce1a1a37650c2f8b94410208647",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/org/81818f56-bda1-41c7-8367-b13058bc4d80",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:225"
+    }
+  },
+  {
+    "e": {
+      "identity": 87,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1943-04-30",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"autorités pénitentiaires allemandes\"",
+        "description": "Transfert d'Anrath vers le pénitencier de Lübeck-Lauerhof.",
+        "date_end": "1943-04-30",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/transfer",
+        "date_source": "#date_source/explicit",
+        "date_start": "1943-04-30",
+        "event_id": "/id/event/d5d3495cc9965a3b9bfb3656b9b9005ae519648c",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/org/81818f56-bda1-41c7-8367-b13058bc4d80",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:87"
+    }
+  },
+  {
+    "e": {
+      "identity": 89,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1943-04-30/1943-11-05",
+        "agent_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "description": "Détention au pénitencier de Lübeck-Lauerhof entre avril et novembre 1943.",
+        "date_end": "1943-11-05",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/explicit",
+        "date_start": "1943-04-30",
+        "event_id": "/id/event/0edefc27c91fd310d6c0393fc9c72f2492df878c",
+        "agent_role": "#detaining",
+        "unknown_agent": false,
+        "date_precision": "interval",
+        "place_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:89"
+    }
+  },
+  {
+    "e": {
+      "identity": 125,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1943-04-30",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"autorités pénitentiaires allemandes\"",
+        "description": "Transfert d'Elisabeth Müller de la prison d'Anrath à la prison de Lübeck-Lauerhof.",
+        "date_end": "1943-04-30",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/transfer",
+        "date_source": "#date_source/explicit",
+        "date_start": "1943-04-30",
+        "event_id": "/id/event/bebaf236ee739db273c1c5233be298c0882cfd33",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/org/81818f56-bda1-41c7-8367-b13058bc4d80",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:125"
+    }
+  },
+  {
+    "e": {
+      "identity": 141,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1943-04-30",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorités pénitentiaires allemandes\"",
+        "description": "\"Transfert d'Elisabeth Müller du bagne d'Anrath vers le bagne de Lübeck-Lauerhof.\"",
+        "date_end": "1943-04-30",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/transfer",
+        "date_source": "#date_source/explicit",
+        "date_start": "1943-04-30",
+        "event_id": "/id/event/8a71b3633b22ef48e9cec315f15148c67bc10c56",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/org/81818f56-bda1-41c7-8367-b13058bc4d80",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:141"
+    }
+  },
+  {
+    "e": {
+      "identity": 143,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1943-04-30/1943-11-05",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Administration pénitentiaire allemande\"",
+        "description": "\"Détention d'Elisabeth Müller au bagne de Lübeck-Lauerhof du 30 avril au 5 novembre 1943.\"",
+        "date_end": "1943-11-05",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/explicit",
+        "date_start": "1943-04-30",
+        "event_id": "/id/event/b6c15395f34d83ec4c234028188e30492cbc72ef",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "interval",
+        "place_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:143"
+    }
+  },
+  {
+    "e": {
+      "identity": 177,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-04-30",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"administration pénitentiaire allemande\"",
+        "description": "Transfert d'Elisabeth Müller du bagne d'Anrath vers le bagne de Lübeck-Lauerhof.",
+        "date_end": "1943-04-30",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/transfer",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/a491dcba49a17e111b6c42bed8b8d1dd2e46b75c",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/org/81818f56-bda1-41c7-8367-b13058bc4d80",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:177"
+    }
+  },
+  {
+    "e": {
+      "identity": 221,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-05-01",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorités pénitentiaires allemandes\"",
+        "description": "Transfert d'Elisabeth Müller du Frauenzuchthaus Anrath bei Krefeld vers le Zuchthaus Lübeck-Lauerhof, Marliring 41, signalé par le Consulat de Suisse à Düsseldorf.",
+        "date_end": "1943-05-01",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/transfer",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/e5acdf4c6fbafa9430d0149edf33ecf71aa2413a",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/org/81818f56-bda1-41c7-8367-b13058bc4d80",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:221"
+    }
+  },
+  {
+    "e": {
+      "identity": 217,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-05-24",
+        "agent_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "description": "Détention d'Elisabeth Müller au Zuchthaus Lübeck-Lauerhof attestée au 24 mai 1943, confirmée par le Consulat de Düsseldorf qui transfère le dossier au Consulat de Bremen compétent pour ce lieu de détention.",
+        "date_end": "1943-05-24",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/114f87df13c380798d3b3b634ae4f8d4433c9302",
+        "agent_role": "#detaining",
+        "unknown_agent": false,
+        "date_precision": "open_start",
+        "place_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:217"
+    }
+  },
+  {
+    "e": {
+      "identity": 215,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-05-28",
+        "agent_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "description": "\"Détention d'Elisabeth Müller au Zuchthaus Lübeck-Lauerhof avec statut spécifique de 'Wehrmachtsgefangene' (prisonnière de la Wehrmacht), entraînant un refus catégorique d'autoriser tout colis et toute communication d'informations sur son état.\"",
+        "date_end": "1943-05-28",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/0a0b7047f30a729bbd88f3a6a8eff57b89dc151d",
+        "agent_role": "#detaining",
+        "unknown_agent": false,
+        "date_precision": "open_start",
+        "place_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:215"
+    }
+  },
+  {
+    "e": {
+      "identity": 213,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-06-09",
+        "agent_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "description": "Détention d'Elisabeth Müller au Zuchthaus Lübeck-Lauerhof, attestée au 9 juin 1943.",
+        "date_end": "1943-06-09",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/5b0ac42f17d513c07dca09cfba8dc58721f6a218",
+        "agent_role": "#detaining",
+        "unknown_agent": false,
+        "date_precision": "open_start",
+        "place_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:213"
+    }
+  },
+  {
+    "e": {
+      "identity": 207,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-06-21",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorités allemandes, lieu de détention non précisé dans le document\"",
+        "description": "\"Détention d'Elisabeth Müller en Allemagne, attestée dans correspondance consulaire du 21 juin 1943.\"",
+        "date_end": "1943-06-21",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/imprisonment",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/da1aec8210537de8017e97ad752941e535ccca6c",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "UNKNOWN_AUTHORITY",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:207"
+    }
+  },
+  {
+    "e": {
+      "identity": 205,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-06-30",
+        "agent_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "description": "Détention d'Elisabeth Müller au Zuchthaus Lübeck-Lauerhof attestée au 30 juin 1943, après transfert depuis le district consulaire de Düsseldorf.",
+        "date_end": "1943-06-30",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/4238bba2ca946f53b0f001a6b5506585c3b6a02c",
+        "agent_role": "#detaining",
+        "unknown_agent": false,
+        "date_precision": "open_start",
+        "place_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:205"
+    }
+  },
+  {
+    "e": {
+      "identity": 201,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-07-07",
+        "agent_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "description": "Détention de Müller Elisabeth au Zuchthaus Lübeck-Lauerhof confirmée par l'Abteilung für Auswärtiges de Berne.",
+        "date_end": "1943-07-07",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/document_date",
+        "event_id": "/id/event/aac34a24a04361fa5d59293a08fa08a98df4e1a6",
+        "agent_role": "#detaining",
+        "unknown_agent": false,
+        "date_precision": "open_start",
+        "place_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:201"
+    }
+  },
+  {
+    "e": {
+      "identity": 91,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1943-07-24",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"le Führer\"",
+        "description": "Commutation de la peine de mort en 5 ans d'emprisonnement par décret du Führer.",
+        "date_end": "1943-07-24",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/clemency/commutation",
+        "date_source": "#date_source/explicit",
+        "date_start": "1943-07-24",
+        "event_id": "/id/event/18a9733c76bbe3b9bb15bb93cdc920d375f035e4",
+        "agent_role": "#clemency",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/12884666-de75-470b-8401-def483ac5b43",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:91"
+    }
+  },
+  {
+    "e": {
+      "identity": 109,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1943-07-24",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Führer - Adolf Hitler\"",
+        "description": "Commutation par décret du Führer de la peine de mort d'Elisabeth Müller en 5 ans de prison.",
+        "date_end": "1943-07-24",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/clemency/commutation",
+        "date_source": "#date_source/explicit",
+        "date_start": "1943-07-24",
+        "event_id": "/id/event/e1ac9f0ee01e2d2293b1bec3aeebd5e2592050de",
+        "agent_role": "#clemency",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:109"
+    }
+  },
+  {
+    "e": {
+      "identity": 127,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1943-07-24",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Adolf Hitler (Führer)\"",
+        "description": "Commutation de la peine de mort d'Elisabeth Müller en 5 ans d'emprisonnement par décret du Führer.",
+        "date_end": "1943-07-24",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/clemency/commutation",
+        "date_source": "#date_source/explicit",
+        "date_start": "1943-07-24",
+        "event_id": "/id/event/ffeebbdb66bc7ff3bfb4041492f90be7268323e9",
+        "agent_role": "#clemency",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:127"
+    }
+  },
+  {
+    "e": {
+      "identity": 157,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1943-07-24",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorité allemande compétente pour grâce\"",
+        "description": "\"Commutation de la peine de mort d'Elisabeth Müller en 5 ans de bagne (Zuchthaus).\"",
+        "date_end": "1943-07-24",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/clemency/commutation",
+        "date_source": "#date_source/explicit",
+        "date_start": "1943-07-24",
+        "event_id": "/id/event/b3548f156c86747b2aef5c10cd3e2f6724759946",
+        "agent_role": "#clemency",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/12884666-de75-470b-8401-def483ac5b43",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:157"
+    }
+  },
+  {
+    "e": {
+      "identity": 185,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1943-07-24",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"autorité allemande compétente pour grâce\"",
+        "description": "Commutation de la peine de mort d'Elisabeth Müller en 5 ans de prison.",
+        "date_end": "1943-07-24",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/clemency/commutation",
+        "date_source": "#date_source/explicit",
+        "date_start": "1943-07-24",
+        "event_id": "/id/event/3145adae3fb7172da10316fac51f2019ad08faac",
+        "agent_role": "#clemency",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/gpe/12884666-de75-470b-8401-def483ac5b43",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:185"
+    }
+  },
+  {
+    "e": {
+      "identity": 197,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-08-03",
+        "agent_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "description": "Détention d'Elisabeth Müller au Zuchthaus Lübeck-Lauerhof, lieu présumé de détention nécessitant confirmation consulaire.",
+        "date_end": "1943-08-03",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/2562cc08818bfc1c3ed0e5b9f87dd15b396f3188",
+        "agent_role": "#detaining",
+        "unknown_agent": false,
+        "date_precision": "open_start",
+        "place_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:197"
+    }
+  },
+  {
+    "e": {
+      "identity": 195,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-08-23",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorités pénitentiaires allemandes\"",
+        "description": "\"Détention confirmée d'Elisabeth Müller au Zuchthaus Lübeck-Lauerhof, condamnée à mort.\"",
+        "date_end": "1943-08-23",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/2cb7057804127e1075dd5934ec1b2e05aa052a07",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:195"
+    }
+  },
+  {
+    "e": {
+      "identity": 193,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-09-06",
+        "agent_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "description": "\"Müller Elisabeth se trouve présumément au Zuchthaus Lübeck-Lauerhof selon les informations de l'Abteilung für Auswärtiges.\"",
+        "date_end": "1943-09-06",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/8b7118b3fadae1e0fc9886ba81d0e351d0426976",
+        "agent_role": "#detaining",
+        "unknown_agent": false,
+        "date_precision": "open_start",
+        "place_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:193"
+    }
+  },
+  {
+    "e": {
+      "identity": 189,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-09-07",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorités pénitentiaires allemandes\"",
+        "description": "\"Confirmation de la détention d'Elisabeth Müller au Zuchthaus Lübeck-Lauerhof au 7 septembre 1943.\"",
+        "date_end": "1943-09-07",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/explicit",
+        "event_id": "/id/event/d0c282d25652b2548c45ab948a5344b1a9a90134",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:189"
+    }
+  },
+  {
+    "e": {
+      "identity": 191,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-09-07",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorités pénitentiaires allemandes du Zuchthaus Lübeck-Lauerhof\"",
+        "description": "\"Elisabeth Müller rapporte dans sa lettre au Consulat que son état de santé est bon et qu'elle n'a aucune plainte à formuler concernant ses conditions de détention au Zuchthaus Lübeck-Lauerhof.\"",
+        "date_end": "1943-09-07",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/explicit",
+        "event_id": "/id/event/58b1d93cf0fc485d818791f47a6a8fde22e804c5",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:191"
+    }
+  },
+  {
+    "e": {
+      "identity": 187,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-09-14",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorités pénitentiaires allemandes gérant le Zuchthaus Lübeck-Lauerhof\"",
+        "description": "\"Détention confirmée d'Elisabeth Müller au bagne de Lübeck-Lauerhof, en cours au 14 septembre 1943.\"",
+        "date_end": "1943-09-14",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/document_date",
+        "event_id": "/id/event/45cef82f1a8cc7cc917202fab8e82104396395cb",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:187"
+    }
+  },
+  {
+    "e": {
+      "identity": 93,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1943-11-05",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"autorités pénitentiaires allemandes\"",
+        "description": "Transfert de Lübeck-Lauerhof vers la prison de Dreibergen-Bützow.",
+        "date_end": "1943-11-05",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/transfer",
+        "date_source": "#date_source/explicit",
+        "date_start": "1943-11-05",
+        "event_id": "/id/event/3cecaed235750404fc7c38a355e8192d0d762366",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:93"
+    }
+  },
+  {
+    "e": {
+      "identity": 95,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1943-11-05/1945-05-03",
+        "agent_id": "/id/org/4ac7904d-55c2-4b91-9f8d-e55d5e3baa0e",
+        "description": "Détention finale à la prison de Dreibergen-Bützow jusqu'à la libération par les troupes soviétiques.",
+        "date_end": "1945-05-03",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/imprisonment",
+        "date_source": "#date_source/explicit",
+        "date_start": "1943-11-05",
+        "event_id": "/id/event/fd2870839b39b4264f161642ab0f23bfb1e5c5bb",
+        "agent_role": "#detaining",
+        "unknown_agent": false,
+        "date_precision": "interval",
+        "place_id": "/id/org/4ac7904d-55c2-4b91-9f8d-e55d5e3baa0e",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:95"
+    }
+  },
+  {
+    "e": {
+      "identity": 101,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-11-05",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "tribunal militaire allemand présumé",
+        "description": "Elisabeth Müller condamnée à mort par une autorité judiciaire allemande, avant sa commutation en 5 ans de Zuchthaus.",
+        "date_end": "1943-11-05",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/sentence/death",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/1254d679fc9dc26417106877ee2883e59d3300e4",
+        "agent_role": "#sentencing",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "UNKNOWN_AUTHORITY",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:101"
+    }
+  },
+  {
+    "e": {
+      "identity": 103,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-11-05",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "autorité allemande compétente pour grâces",
+        "description": "Commutation de la peine de mort d'Elisabeth Müller en 5 ans de Zuchthaus (bagne).",
+        "date_end": "1943-11-05",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/clemency/commutation",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/b9794594cacae9fd57e65901b96fa34d3cf74e8a",
+        "agent_role": "#clemency",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "UNKNOWN_AUTHORITY",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:103"
+    }
+  },
+  {
+    "e": {
+      "identity": 105,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1943-11-05/1945-05-03",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "diverses prisons allemandes successives",
+        "description": "Elisabeth Müller emprisonnée dans diverses prisons allemandes pendant 49 mois, du 5 novembre 1943 au 3 mai 1945.",
+        "date_end": "1945-05-03",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/explicit",
+        "date_start": "1943-11-05",
+        "event_id": "/id/event/c99b3e13ea2a958cbd238ec3a3315480b96b129c",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "interval",
+        "place_precision": "diverses prisons allemandes, localisation(s) non précisée(s)",
+        "place_id": "UNKNOWN_AUTHORITY",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:105"
+    }
+  },
+  {
+    "e": {
+      "identity": 111,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-11-05",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorités pénitentiaires allemandes\"",
+        "description": "\"Transfert d'Elisabeth Müller du Zuchthaus Lübeck-Lauerhof vers le Zuchthaus Dreibergen-Bützow.\"",
+        "date_end": "1943-11-05",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/transfer",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/87bc85b492620e96e32665ac64f66449b7894cc5",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:111"
+    }
+  },
+  {
+    "e": {
+      "identity": 145,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1943-11-05",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Autorités pénitentiaires allemandes\"",
+        "description": "\"Transfert d'Elisabeth Müller du bagne de Lübeck-Lauerhof vers le bagne de Dreibergen-Bützow.\"",
+        "date_end": "1943-11-05",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/transfer",
+        "date_source": "#date_source/explicit",
+        "date_start": "1943-11-05",
+        "event_id": "/id/event/6548b2e0eee15d04e761fb55d3799112d7332af1",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:145"
+    }
+  },
+  {
+    "e": {
+      "identity": 147,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1943-11-05/1945-05-03",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Administration pénitentiaire allemande\"",
+        "description": "\"Détention d'Elisabeth Müller au bagne de Dreibergen-Bützow du 5 novembre 1943 au 3 mai 1945.\"",
+        "date_end": "1945-05-03",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/explicit",
+        "date_start": "1943-11-05",
+        "event_id": "/id/event/698b8477577263eec59972df9dad0d592cc48380",
+        "agent_role": "#detaining",
+        "unknown_agent": true,
+        "date_precision": "interval",
+        "place_id": "/id/org/4ac7904d-55c2-4b91-9f8d-e55d5e3baa0e",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:147"
+    }
+  },
+  {
+    "e": {
+      "identity": 179,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1943-11-05",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"administration pénitentiaire allemande\"",
+        "description": "Transfert d'Elisabeth Müller du bagne de Lübeck-Lauerhof vers le bagne de Dreibergen-Bützow.",
+        "date_end": "1943-11-05",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/displacement/transfer",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/1f71a2331bba03fb52039849e54514bd57dc43de",
+        "agent_role": "#transferring",
+        "unknown_agent": true,
+        "date_precision": "open_start",
+        "place_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:179"
+    }
+  },
+  {
+    "e": {
+      "identity": 97,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1945-05-03",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"troupes russes\"",
+        "description": "Libération d'Elisabeth Müller par les troupes soviétiques après 49 mois de détention totale.",
+        "date_end": "1945-05-03",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/liberation",
+        "date_source": "#date_source/explicit",
+        "date_start": "1945-05-03",
+        "event_id": "/id/event/5883b2281186a12744c77749b4083fa6024bb57e",
+        "agent_role": "#liberating",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/org/4ac7904d-55c2-4b91-9f8d-e55d5e3baa0e",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:97"
+    }
+  },
+  {
+    "e": {
+      "identity": 107,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1945-05-03",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "forces soviétiques libératrices",
+        "description": "Libération d'Elisabeth Müller par les troupes soviétiques au Zuchthaus Dreibergen-Bützow le 3 mai 1945.",
+        "date_end": "1945-05-03",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/liberation",
+        "date_source": "#date_source/explicit",
+        "date_start": "1945-05-03",
+        "event_id": "/id/event/c2ac78dae9a0e4d8477b890ac214bcb9c36c5cd0",
+        "agent_role": "#liberating",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/org/4ac7904d-55c2-4b91-9f8d-e55d5e3baa0e",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:107"
+    }
+  },
+  {
+    "e": {
+      "identity": 149,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1945-05-03",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"Troupes soviétiques\"",
+        "description": "\"Libération d'Elisabeth Müller par les troupes soviétiques après 49 mois de détention totale (mars 1941 - mai 1945).\"",
+        "date_end": "1945-05-03",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/liberation",
+        "date_source": "#date_source/explicit",
+        "date_start": "1945-05-03",
+        "event_id": "/id/event/63f24e422e6f254e76ce435ca2f3bf291f19f59d",
+        "agent_role": "#liberating",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/org/4ac7904d-55c2-4b91-9f8d-e55d5e3baa0e",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:149"
+    }
+  },
+  {
+    "e": {
+      "identity": 181,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "1945-05-03",
+        "agent_id": "UNKNOWN_AUTHORITY",
+        "agent_precision": "\"troupes soviétiques\"",
+        "description": "Libération d'Elisabeth Müller par les troupes soviétiques après 49 mois de détention totale.",
+        "date_end": "1945-05-03",
+        "gap_flag": false,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/legal/liberation",
+        "date_source": "#date_source/explicit",
+        "date_start": "1945-05-03",
+        "event_id": "/id/event/e9ae939e56f2d2be2d2cccaa5a1e4e898d3c2d05",
+        "agent_role": "#liberating",
+        "unknown_agent": true,
+        "date_precision": "exact",
+        "place_id": "/id/org/4ac7904d-55c2-4b91-9f8d-e55d5e3baa0e",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:181"
+    }
+  },
+  {
+    "e": {
+      "identity": 203,
+      "labels": [
+        "Event"
+      ],
+      "properties": {
+        "date_edtf": "../1945-07-07",
+        "agent_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "description": "Détention d'Elisabeth Müller au Zuchthaus Lübeck-Lauerhof, attestée par mention du lieu dans correspondance administrative du 7 juillet 1945.",
+        "date_end": "1945-07-07",
+        "gap_flag": true,
+        "victim_id": "/id/person/5690edc0-f4b0-472d-8e3c-c3b6a35e86ca",
+        "tags": "#persecution/detention/zuchthaus",
+        "date_source": "#date_source/inferred",
+        "event_id": "/id/event/7110e0629a1d7fc21c6683f0ed6530c0b7a53160",
+        "agent_role": "#detaining",
+        "unknown_agent": false,
+        "date_precision": "open_start",
+        "place_id": "/id/org/b0d47a91-7f11-4732-8847-4d927e0f971f",
+        "uncertainty_flag": false
+      },
+      "elementId": "4:0a557922-7098-43c8-8061-2643d9ebcd96:203"
+    }
+  }
+]

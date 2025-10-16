@@ -1,0 +1,142 @@
+[
+  {
+    "acteur": "Division des affaires étrangères à Berne",
+    "type": "Organization",
+    "actions_effectuees": 76,
+    "actions_recues": 70,
+    "degree_centrality": 146
+  },
+  {
+    "acteur": "Légation de Suisse à Berlin",
+    "type": "Organization",
+    "actions_effectuees": 34,
+    "actions_recues": 39,
+    "degree_centrality": 73
+  },
+  {
+    "acteur": "Consulat de Suisse à Düsseldorf",
+    "type": "Organization",
+    "actions_effectuees": 22,
+    "actions_recues": 24,
+    "degree_centrality": 46
+  },
+  {
+    "acteur": "Consulat de Suisse à Paris",
+    "type": "Organization",
+    "actions_effectuees": 25,
+    "actions_recues": 7,
+    "degree_centrality": 32
+  },
+  {
+    "acteur": "Steffen Hans-Rudolf",
+    "type": "Person",
+    "actions_effectuees": 17,
+    "actions_recues": 12,
+    "degree_centrality": 29
+  },
+  {
+    "acteur": "Müller Elisabeth",
+    "type": "Person",
+    "actions_effectuees": 15,
+    "actions_recues": 14,
+    "degree_centrality": 29
+  },
+  {
+    "acteur": "Commission pour les paiements anticipés aux victimes du national-socialisme",
+    "type": "Organization",
+    "actions_effectuees": 11,
+    "actions_recues": 16,
+    "degree_centrality": 27
+  },
+  {
+    "acteur": "Consulat de Suisse de Hambourg",
+    "type": "Organization",
+    "actions_effectuees": 10,
+    "actions_recues": 13,
+    "degree_centrality": 23
+  },
+  {
+    "acteur": "Ministère des affaires étrangères allemand",
+    "type": "Organization",
+    "actions_effectuees": 6,
+    "actions_recues": 15,
+    "degree_centrality": 21
+  },
+  {
+    "acteur": "Kunz Gregor",
+    "type": "Person",
+    "actions_effectuees": 6,
+    "actions_recues": 5,
+    "degree_centrality": 11
+  },
+  {
+    "acteur": "Dickmann Fritz",
+    "type": "Person",
+    "actions_effectuees": 4,
+    "actions_recues": 6,
+    "degree_centrality": 10
+  },
+  {
+    "acteur": "Consulat de Suisse à Mannheim",
+    "type": "Organization",
+    "actions_effectuees": 0,
+    "actions_recues": 8,
+    "degree_centrality": 8
+  },
+  {
+    "acteur": "Maison de correction de Lübeck-Lauerhof",
+    "type": "Organization",
+    "actions_effectuees": 4,
+    "actions_recues": 2,
+    "degree_centrality": 6
+  },
+  {
+    "acteur": "Zellweger",
+    "type": "Person",
+    "actions_effectuees": 5,
+    "actions_recues": 0,
+    "degree_centrality": 5
+  },
+  {
+    "acteur": "Consulat de Suisse à Bremen",
+    "type": "Organization",
+    "actions_effectuees": 3,
+    "actions_recues": 2,
+    "degree_centrality": 5
+  },
+  {
+    "acteur": "Bonna Pierre",
+    "type": "Person",
+    "actions_effectuees": 1,
+    "actions_recues": 3,
+    "degree_centrality": 4
+  },
+  {
+    "acteur": "Ministère public de la Confédération",
+    "type": "Organization",
+    "actions_effectuees": 1,
+    "actions_recues": 3,
+    "degree_centrality": 4
+  },
+  {
+    "acteur": "Edmond Schulthess",
+    "type": "Person",
+    "actions_effectuees": 2,
+    "actions_recues": 1,
+    "degree_centrality": 3
+  },
+  {
+    "acteur": "Comité de Solidarité et Entr'aide",
+    "type": "Organization",
+    "actions_effectuees": 1,
+    "actions_recues": 1,
+    "degree_centrality": 2
+  },
+  {
+    "acteur": "Pilet-Golaz Marcel",
+    "type": "Person",
+    "actions_effectuees": 2,
+    "actions_recues": 0,
+    "degree_centrality": 2
+  }
+]
